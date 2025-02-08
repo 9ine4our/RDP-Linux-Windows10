@@ -9,7 +9,7 @@ rm -rf ngrok ngrok.zip ng.sh > /dev/null 2>&1
 echo "======================="
 echo "Downloading ngrok script..."
 echo "======================="
-wget -O ng.sh https://raw.githubusercontent.com/9ine4our/RDP-Linux-Windows10/main/MyVersion/ngrok.sh > /dev/null 2>&1
+wget -O ng.sh https://raw.githubusercontent.com/9ine4our/RDP-Linux-Windows10/main/MyVersion/myngrok.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 
